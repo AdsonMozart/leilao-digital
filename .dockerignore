@@ -1,0 +1,16 @@
+.git
+.env
+.env.*
+**/.env
+**/.env.*
+**/.venv
+**/node_modules
+**/.next
+**/__pycache__
+**/*.pyc
+media
+staticfiles
+backups
+**/*.sql
+**/*.sql.gz
+**/*.log
